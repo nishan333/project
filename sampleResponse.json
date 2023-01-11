@@ -1,0 +1,242 @@
+{
+  "attendance": "41479",
+  "away_team": {
+    "country": "CRC",
+    "goals": 1,
+    "name": "Costa Rica",
+    "penalties": 0
+  },
+  "away_team_country": "CRC",
+  "away_team_events": [
+    {
+      "extra_info": null,
+      "id": 1404,
+      "player": "Anthony Contreras",
+      "time": "41'",
+      "type_of_event": "booking"
+    },
+    {
+      "extra_info": null,
+      "id": 1411,
+      "player": "Celso Borges",
+      "time": "61'",
+      "type_of_event": "booking"
+    },
+    {
+      "extra_info": null,
+      "id": 1407,
+      "player": "Celso Borges",
+      "time": "62'",
+      "type_of_event": "booking"
+    },
+    {
+      "extra_info": "{\"player_off\":\"Gerson Torres\",\"player_on\":\"Brandon Aguilera\"}",
+      "id": 1410,
+      "player": "Brandon Aguilera",
+      "time": "65'",
+      "type_of_event": "substitution"
+    },
+    {
+      "extra_info": null,
+      "id": 1414,
+      "player": "Francisco Calvo",
+      "time": "70'",
+      "type_of_event": "booking"
+    },
+    {
+      "extra_info": null,
+      "id": 1415,
+      "player": "Keysher Fuller",
+      "time": "81'",
+      "type_of_event": "goal"
+    },
+    {
+      "extra_info": "{\"player_off\":\"Celso Borges\",\"player_on\":\"Youstin Salas\"}",
+      "id": 1418,
+      "player": "Youstin Salas",
+      "time": "89'",
+      "type_of_event": "substitution"
+    },
+    {
+      "extra_info": "{\"player_off\":\"Joel Campbell\",\"player_on\":\"Daniel Chacon\"}",
+      "id": 1420,
+      "player": "Daniel Chacon",
+      "time": "90'+5'",
+      "type_of_event": "substitution"
+    }
+  ],
+  "away_team_lineup": {
+    "country": "CRC",
+    "starting_eleven": ["", "", "", "", "", "", "", "", "", "", ""],
+    "substitutes": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+    "tactics": "4-4-2"
+  },
+  "away_team_statistics": {
+    "attempts_on_goal": null,
+    "attempts_on_goal_against": null,
+    "blocked": null,
+    "corners": null,
+    "country": "CRC",
+    "fouls_committed": null,
+    "free_kicks": null,
+    "goal_kicks": null,
+    "num_passes": null,
+    "off_target": null,
+    "offsides": null,
+    "on_target": null,
+    "passes_completed": null,
+    "penalties": null,
+    "penalties_scored": null,
+    "red_cards": null,
+    "tackles": null,
+    "throw_ins": null,
+    "yellow_cards": null
+  },
+  "datetime": "2022-11-27T10:00:00Z",
+  "detailed_time": {
+    "current_time": "0'",
+    "first_half_extra_time": null,
+    "first_half_time": null,
+    "second_half_extra_time": null,
+    "second_half_time": null
+  },
+  "home_team": {
+    "country": "JPN",
+    "goals": 0,
+    "name": "Japan",
+    "penalties": 0
+  },
+  "home_team_country": "JPN",
+  "home_team_events": [
+    {
+      "extra_info": null,
+      "id": 1405,
+      "player": "Miki Yamane",
+      "time": "44'",
+      "type_of_event": "booking"
+    },
+    {
+      "extra_info": "{\"player_off\":\"Yuto Nagatomo\",\"player_on\":\"Hiroki Ito\"}",
+      "id": 1406,
+      "player": "Hiroki Ito",
+      "time": "46'",
+      "type_of_event": "substitution"
+    },
+    {
+      "extra_info": "{\"player_off\":\"Miki Yamane\",\"player_on\":\"Kaoru Mitoma\"}",
+      "id": 1408,
+      "player": "Kaoru Mitoma",
+      "time": "62'",
+      "type_of_event": "substitution"
+    },
+    {
+      "extra_info": "{\"player_off\":\"Miki Yamane\",\"player_on\":\"Kaoru Mitoma\"}",
+      "id": 1409,
+      "player": "Kaoru Mitoma",
+      "time": "62'",
+      "type_of_event": "substitution"
+    },
+    {
+      "extra_info": "{\"player_off\":\"Ritsu Doan\",\"player_on\":\"Junya Ito\"}",
+      "id": 1412,
+      "player": "Junya Ito",
+      "time": "67'",
+      "type_of_event": "substitution"
+    },
+    {
+      "extra_info": "{\"player_off\":\"Ritsu Doan\",\"player_on\":\"Junya Ito\"}",
+      "id": 1413,
+      "player": "Junya Ito",
+      "time": "67'",
+      "type_of_event": "substitution"
+    },
+    {
+      "extra_info": "{\"player_off\":\"Yuki Soma\",\"player_on\":\"Takumi Minamino\"}",
+      "id": 1416,
+      "player": "Takumi Minamino",
+      "time": "82'",
+      "type_of_event": "substitution"
+    },
+    {
+      "extra_info": null,
+      "id": 1417,
+      "player": "Kou Itakura",
+      "time": "84'",
+      "type_of_event": "booking"
+    },
+    {
+      "extra_info": null,
+      "id": 1419,
+      "player": "Wataru Endo",
+      "time": "90'+3'",
+      "type_of_event": "booking"
+    }
+  ],
+  "home_team_lineup": {
+    "country": "JPN",
+    "starting_eleven": ["", "", "", "", "", "", "", "", "", "", ""],
+    "substitutes": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+    "tactics": "4-5-1"
+  },
+  "home_team_statistics": {
+    "attempts_on_goal": null,
+    "attempts_on_goal_against": null,
+    "blocked": null,
+    "corners": null,
+    "country": "JPN",
+    "fouls_committed": null,
+    "free_kicks": null,
+    "goal_kicks": null,
+    "num_passes": null,
+    "off_target": null,
+    "offsides": null,
+    "on_target": null,
+    "passes_completed": null,
+    "penalties": null,
+    "penalties_scored": null,
+    "red_cards": null,
+    "tackles": null,
+    "throw_ins": null,
+    "yellow_cards": null
+  },
+  "id": 25,
+  "last_changed_at": "2022-11-27T23:33:35Z",
+  "last_checked_at": "2022-11-27T23:33:35Z",
+  "location": "Ar-Rayyan",
+  "officials": [
+    { "country": "ENG", "name": "Michael OLIVER", "role": "Referee" },
+    { "country": "ENG", "name": "Stuart BURT", "role": "Assistant Referee 1" },
+    {
+      "country": "ENG",
+      "name": "Simon BENNETT",
+      "role": "Assistant Referee 2"
+    },
+    { "country": "SEN", "name": "Maguette NDIAYE", "role": "Fourth official" },
+    {
+      "country": "FRA",
+      "name": "J. Brisard",
+      "role": "Video Assistant Referee (VAR)"
+    },
+    { "country": "FRA", "name": "Cyril GRINGORE", "role": "Offside VAR" },
+    { "country": "FRA", "name": "Benoit MILLOT", "role": "Assistant VAR" },
+    { "country": "MAR", "name": "Adil ZOURAK", "role": "Support VAR" },
+    {
+      "country": "SEN",
+      "name": "El Hadji SAMBA",
+      "role": "Reserve Assistant Referee"
+    }
+  ],
+  "stage_name": "First stage",
+  "status": "completed",
+  "time": "full-time",
+  "venue": "Ahmad Bin Ali Stadium",
+  "weather": {
+    "description": "Sunny",
+    "humidity": "29",
+    "temp_celsius": "32",
+    "temp_farenheit": "64",
+    "wind_speed": "5"
+  },
+  "winner": "Costa Rica",
+  "winner_code": "CRC"
+}
