@@ -59,7 +59,7 @@ export default function App() {
               }}
             />
             <Stack.Screen
-              name="not"
+              name="showall"
               component={ShowAll}
               options={{
                 headerShown: false,
